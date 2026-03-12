@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Hacking to the Gate",
   "base_artist": "いとうかなこ",
-  "createdAt": "2026-02-20T06:10:42.055952Z",
+  "createdAt": "2026-03-12T23:25:46.825817Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -87,42 +87,50 @@
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Hacking to the Gate",
+      "title": "Hacking to the Gate -symphonic ver.-",
       "artist": "いとうかなこ",
       "has_synced": true,
-      "path": "select/11_Hacking_to_the_Gate_いとうかなこ.lrc"
+      "path": "select/11_Hacking_to_the_Gate_-symphonic_ver.-_いとうかなこ.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
       "title": "Hacking to the Gate",
-      "artist": "Shoujy",
+      "artist": "いとうかなこ",
       "has_synced": true,
-      "path": "select/12_Hacking_to_the_Gate_Shoujy.lrc"
+      "path": "select/12_Hacking_to_the_Gate_いとうかなこ.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
       "title": "Hacking to the Gate",
-      "artist": "いとうかなこ",
+      "artist": "Shoujy",
       "has_synced": true,
-      "path": "select/13_Hacking_to_the_Gate_いとうかなこ.lrc"
+      "path": "select/13_Hacking_to_the_Gate_Shoujy.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
       "title": "Hacking to the Gate",
-      "artist": "Kanako Itou",
+      "artist": "いとうかなこ",
       "has_synced": true,
-      "path": "select/14_Hacking_to_the_Gate_Kanako_Itou.lrc"
+      "path": "select/14_Hacking_to_the_Gate_いとうかなこ.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
       "title": "Hacking to the Gate",
+      "artist": "Kanako Itou",
+      "has_synced": true,
+      "path": "select/15_Hacking_to_the_Gate_Kanako_Itou.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hacking to the Gate",
       "artist": "いとうかなこ",
       "has_synced": true,
-      "path": "select/15_Hacking_to_the_Gate_いとうかなこ.lrc"
+      "path": "select/16_Hacking_to_the_Gate_いとうかなこ.lrc"
     },
     {
       "id": "petitlyrics_1",
